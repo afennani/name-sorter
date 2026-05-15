@@ -1,0 +1,62 @@
+# Build results
+bin/
+obj/
+out/
+
+# User-specific files
+*.user
+*.rsuser
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio
+.vs/
+.vscode/
+
+# Rider / JetBrains
+.idea/
+
+# NUnit / Test results
+TestResults/
+*.trx
+
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# NuGet
+*.nupkg
+*.snupkg
+packages/
+**/packages/*
+
+# Dotnet tools
+.toolstarget/
+.dotnet/
+tools/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Publish output
+publish/
+*.publish.xml
+
+# Coverage results
+coverage/
+*.coverage
+*.coveragexml
+
+# GitHub Actions / CI
+# (usually not needed to ignore, but safe if artifacts are generated locally)
+.github/workflows/*.local
+
+# ReSharper
+_ReSharper*/
+*.DotSettings.user
