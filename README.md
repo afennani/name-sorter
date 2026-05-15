@@ -6,7 +6,7 @@ this program allows sorting list of names:
 3- sorts all names by last name then by given names
 4- displays sorted names on screen and saves the result in a file `sorted-names-list.txt`.
 
-[![CI](https://github.com/afennani/name-sorter/actions/workflows/ci.yml/badge.svg)](https://github.com/afennani/name-sorter/actions/workflows/ci.yml)
+[![CI](https://github.com/afennani/name-sorter/actions/workflows/badge.svg)](https://github.com/afennani/name-sorter/actions/workflows/main.yml)
 
 ---
 
